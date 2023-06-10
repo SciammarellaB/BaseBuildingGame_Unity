@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grass
+  - Water
+  - Rock
+  - Tree
+  - Gold
+  - Table
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Grass
+  - Tiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 742848937
+    locked: 0
+  - name: Player
+    uniqueID: 2916482817
+    locked: 0
+  - name: Rock
+    uniqueID: 3403049727
+    locked: 0
+  - name: Collect
+    uniqueID: 286211529
+    locked: 0
+  - name: Item
+    uniqueID: 2847976201
+    locked: 0
+  - name: Tree
+    uniqueID: 1507754613
+    locked: 0
